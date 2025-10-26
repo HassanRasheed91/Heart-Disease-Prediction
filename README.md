@@ -8,17 +8,7 @@
 ![OCR](https://img.shields.io/badge/OCR-Tesseract-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-**AI-Powered Cardiac Risk Assessment Platform**
 
-*Developed by [SHAZIM JAVED](https://github.com/shazimjaved) | AI Solutions Expert*
-
-[![Demo](https://img.shields.io/badge/Demo-Live%20App-brightgreen.svg)](https://github.com/shazimjaved/heart-disease-prediction)
-[![Documentation](https://img.shields.io/badge/Docs-Wiki-blue.svg)](https://github.com/shazimjaved/heart-disease-prediction/wiki)
-[![Issues](https://img.shields.io/badge/Issues-Report-red.svg)](https://github.com/shazimjaved/heart-disease-prediction/issues)
-
-</div>
-
----
 
 ## 🚀 **Overview**
 
@@ -111,7 +101,7 @@ Heart/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/shazimjaved/heart-disease-prediction.git
+   git clone https://github.com/HassanRasheed91/heart-disease-prediction.git
    cd heart-disease-prediction
    ```
 
@@ -340,21 +330,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 👨‍💻 **Developer**
-
-<div align="center">
-
-### **SHAZIM JAVED**
-*AI Solutions Expert | Machine Learning Engineer | Medical AI Specialist*
-
-[![GitHub](https://img.shields.io/badge/GitHub-shazimjaved-black.svg)](https://github.com/shazimjaved)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/shazimjaved)
-[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:shazimjaved448@gmail.com)
-
-**Specialized in developing cutting-edge AI solutions for healthcare applications**
-
-</div>
-
 ---
 
 ## 🙏 **Acknowledgments**
@@ -370,9 +345,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📞 **Support**
 
 - 📧 **Email**: shazimjaved448@gmail.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/shazimjaved/Heart-Disease-Prediction/issues)
-- 📖 **Documentation**: [Wiki](https://github.com/shazimjaved/Heart-Disease-Prediction/wiki)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/shazimjaved/Heart-Disease-Prediction/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/HassanRasheed91/Heart-Disease-Prediction/issues)
+- 📖 **Documentation**: [Wiki](https://github.com/HassanRasheed91/Heart-Disease-Prediction/wiki)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/HassanRasheed91/Heart-Disease-Prediction/discussions)
 
 ---
 
@@ -380,6 +355,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **⭐ Star this repository if you found it helpful!**
 
-*Made with ❤️ by [SHAZIM JAVED](https://github.com/shazimjaved)*
+*Made with ❤️ by [Hassan Rasheed](https://github.com/HassanRasheed91)*
 
 </div>
