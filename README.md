@@ -344,7 +344,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📞 **Support**
 
-- 📧 **Email**: shazimjaved448@gmail.com
+- 📧 **Email**: 221980038@gift.edu.pk
 - 🐛 **Issues**: [GitHub Issues](https://github.com/HassanRasheed91/Heart-Disease-Prediction/issues)
 - 📖 **Documentation**: [Wiki](https://github.com/HassanRasheed91/Heart-Disease-Prediction/wiki)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/HassanRasheed91/Heart-Disease-Prediction/discussions)
