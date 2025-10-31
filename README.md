@@ -214,7 +214,7 @@ Heart/
 - 🎯 **Normal Range Comparisons** with color coding
 - 💡 **Personalized Recommendations** based on risk level
 - 🏥 **Professional Disclaimers** and medical notes
-- 👨‍💻 **Developer Information** (SHAZIM JAVED)
+- 👨‍💻 **Developer Information** (Hassan Rasheed)
 
 ### 📊 **Interactive Visualizations**
 - 🥧 **Pie Charts**: Risk probability distribution
