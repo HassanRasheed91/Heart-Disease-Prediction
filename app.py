@@ -27,14 +27,14 @@ except ImportError:
     from model_training import load_model
 
 st.set_page_config(
-    page_title="🏥 Cardiology Assessment Center - Heart Disease Prediction | By Shazim Javed",
+    page_title="🏥 Cardiology Assessment Center - Heart Disease Prediction | By Hassan Rasheed",
     page_icon="❤️",
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        'Get Help': 'https://github.com/shazimjaved/heart-disease-prediction',
-        'Report a bug': "https://github.com/shazimjaved/heart-disease-prediction/issues",
-        'About': "# Heart Disease Prediction System\nDeveloped by SHAZIM JAVED\nAI Solutions Expert\nPowered by Advanced Machine Learning"
+        'Get Help': 'https://github.com/HassanRasheed91/Heart-Disease-Prediction',
+        'Report a bug': "https://github.com/HassanRasheed91/Heart-Disease-Prediction/issues",
+        'About': "# Heart Disease Prediction System\nDeveloped by Hassan Rasheed\nAI Solutions Expert\nPowered by Advanced Machine Learning"
     }
 )
 
@@ -402,7 +402,7 @@ def main():
         </p>
         <div style="margin-top: 0.5rem;">
             <span style="background: rgba(255,215,0,0.2); padding: 0.2rem 0.8rem; border-radius: 12px; color: #FFD700; font-size: 0.75rem; font-weight: bold; border: 1px solid rgba(255,215,0,0.3);">
-                👨‍💻 By SHAZIM JAVED | AI Healthcare Expert
+                👨‍💻 By Hassan Rasheed 
             </span>
         </div>
     </div>
@@ -440,10 +440,9 @@ def main():
         <div style="background: rgba(255,215,0,0.1); padding: 1rem; border-radius: 10px; border-left: 4px solid #FFD700;">
             <h4 style="color: #FFD700; margin-top: 0;">👨‍💻 Developer</h4>
             <p style="color: white; font-size: 0.8rem; margin: 0.5rem 0;">
-                <strong>SHAZIM JAVED</strong><br>
+                <strong>Hassan Rasheed</strong><br>
                 🏆 AI Solutions Expert<br>
                 💻 Machine Learning Engineer<br>
-                🩺 Medical AI Specialist
             </p>
         </div>
         """, unsafe_allow_html=True)
